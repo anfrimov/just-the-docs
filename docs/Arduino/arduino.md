@@ -9,6 +9,7 @@ permalink: /docs/Arduino
 # Arduino
 
 This directory is where all code uploaded to the Arduino controller is stored. The Arduino IDE saves all `.ino` code files into a directory with the corresponding name.
+{: .fs-6 .fw-300 }
 
 ---
 

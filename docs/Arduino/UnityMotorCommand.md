@@ -7,7 +7,7 @@ nav_order: 1
 
 # UnityMotorCommand
 Arduino script that reads serial output from Unity to control the two stepper motors.
-{: .no_toc }
+{: .fs-6 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }

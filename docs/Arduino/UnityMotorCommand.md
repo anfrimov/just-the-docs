@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # UnityMotorCommand
+Arduino script that reads serial output from Unity to control the two stepper motors.
 {: .no_toc }
 
 ## Table of contents
@@ -16,6 +17,8 @@ nav_order: 1
 
 ---
 
-## UnityMotorCommand.ino
+## Methods
 
-Arduino script that reads serial output from Unity to control the two stepper motors.
+### moveStepper
+
+Something about reading serial command stuff.

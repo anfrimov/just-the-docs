@@ -6,8 +6,8 @@ permalink: /pages/ProjectSettings
 ---
 
 # ProjectSettings
-This Unity project's settings.
 
+This Unity project's settings.
 {: .fs-6 .fw-300 }
 
 ---

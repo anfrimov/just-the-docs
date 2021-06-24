@@ -36,6 +36,6 @@ Whenever one of the motors takes a step, the Arduino continues to send current t
 Allows Unity to tell the Arduino to move one of the stepper motors a specific amount. The first argument specifies which motor, and the second argument corresponds to the number of steps to move (positive is forward, negative is backward).
 
 Example:
-```
-"moveStepper M1 -20 \n"
+```c#
+arduino.WriteToArduino("moveStepper M1 -20\n");
 ```

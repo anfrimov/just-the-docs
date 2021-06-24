@@ -2,7 +2,6 @@
 layout: default
 title: UserSettings
 nav_order: 8
-has_children: true
 permalink: /pages/UserSettings
 ---
 

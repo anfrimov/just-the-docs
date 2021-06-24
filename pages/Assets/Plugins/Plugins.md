@@ -3,6 +3,7 @@ layout: default
 title: Plugins
 nav_order: 4
 has_children: true
+parent: Assets
 permalink: /pages/Assets/Plugins
 ---
 

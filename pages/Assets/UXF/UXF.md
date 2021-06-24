@@ -8,7 +8,7 @@ permalink: /pages/Assets/UXF
 ---
 
 # UXF
-Imported UXF package contents.
+Imported [UXF](https://github.com/immersivecognition/unity-experiment-framework) package contents.
 {: .fs-6 .fw-300 }
 
 ---

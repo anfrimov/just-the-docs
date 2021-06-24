@@ -3,6 +3,7 @@ layout: default
 title: UXF
 nav_order: 10
 has_children: false
+parent: Assets
 permalink: /pages/Assets/UXF
 ---
 

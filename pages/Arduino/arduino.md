@@ -3,7 +3,7 @@ layout: default
 title: Arduino
 nav_order: 1
 has_children: true
-permalink: /docs/Arduino
+permalink: /pages/Arduino
 ---
 
 # Arduino

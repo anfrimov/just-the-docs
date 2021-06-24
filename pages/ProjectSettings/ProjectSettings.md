@@ -6,12 +6,11 @@ permalink: /pages/ProjectSettings
 ---
 
 # ProjectSettings
+This Unity project's settings.
 
-This is where Unity stores project settings, which can be edited via Unity under **Edit -> Project Settings...**. This directory and its contents are necessary to the proper functioning of the project.
 {: .fs-6 .fw-300 }
 
 ---
 
 ## Content
-
-Add content.
+This is where Unity stores files that track the project settings. These settings can be edited via Unity under **Edit -> Project Settings...**. This directory and its contents are necessary to the proper functioning of the project.

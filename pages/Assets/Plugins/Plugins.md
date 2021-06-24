@@ -14,4 +14,4 @@ Reserved for imported contents of package files.
 
 ## Content
 
-Generally contains the contents of any [package files]({{ site.baseurl }}{% link pages/Assets/Imports/Imports.md %}) (`.unitypackage` extension) that were imported into the project. The Leap packages all unpack to this location; however, [UXF]({{ site.baseurl }}{% link pages/Assets/UXF/UXF.md %}) unpacks [here]({{ site.baseurl }}{% link pages/Assets/UXF/UXF.md %}) and [here]({{ site.baseurl }}{% link pages/Assets/WebGLTemplates/WebGLTemplates.md %}) (you can see where a package's files will be unpacked during the import process in Unity). 
+Generally contains the contents of any [package files]({{ site.baseurl }}{% link pages/Assets/Imports/Imports.md %}) (`.unitypackage` extension) that were imported into the project. The Leap packages all unpack to this location; however, [UXF](https://github.com/immersivecognition/unity-experiment-framework) unpacks [here]({{ site.baseurl }}{% link pages/Assets/UXF/UXF.md %}) and [here]({{ site.baseurl }}{% link pages/Assets/WebGLTemplates/WebGLTemplates.md %}) (you can see where a package's files will be unpacked during the import process in Unity). 

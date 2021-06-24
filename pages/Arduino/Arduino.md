@@ -15,10 +15,10 @@ This directory is where all code uploaded to the Arduino controller is stored.
 
 ## Content
 
-Arduino "sketches" (what Arduino calls projects or scripts). The Arduino IDE saves all `.ino` files (the code for the sketch) into a directory with the corresponding name. This project has only one sketch: [UnityMotorCommand](({{ site.baseurl }}{% link pages/Arduino/UnityMotorCommand.md %}).
+Arduino "sketches" (what Arduino calls projects or scripts). The Arduino IDE saves all `.ino` files (the code for the sketch) into a directory with the corresponding name. This project has only one sketch: [UnityMotorCommand]({{ site.baseurl }}{% link pages/Arduino/UnityMotorCommand.md %}).
 
 Once a sketch is uploaded to the Arduino device, the device can be left alone.
 
-## [UnityMotorCommand](({{ site.baseurl }}{% link pages/Arduino/UnityMotorCommand.md %})
+## [UnityMotorCommand]({{ site.baseurl }}{% link pages/Arduino/UnityMotorCommand.md %})
 
 Arduino script that reads serial output from Unity to control the two stepper motors.

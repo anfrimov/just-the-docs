@@ -18,7 +18,7 @@ Arduino script that reads serial output from Unity to control the two stepper mo
 ---
 
 ## Serial commands
-The Arduino and Unity communicate with one another over a serial communication port. The serial command is a string sent from Unity to the Arduino and terminating in a new-line character `\n`. Items in the string are separated by spaces. The first item in the string is the method the command is intended to activate. Correspondance between methods and command strings is established in the Arduino code. The commands and method names (mostly) match for simplicity. Any other items in the string are taken as arguments for the method being called. Command strings are case sensitive.
+The Arduino and Unity communicate with one another over a serial communication port. The serial command is a string sent from Unity to the Arduino and terminating in a new-line character `\n`. Items in the string are separated by spaces. The first item in the string is the method the command is intended to activate. Correspondance between methods and command strings is established in the Arduino code. The commands and method names (mostly) match for simplicity. Any other items in the string are taken as arguments for the method being called. Serial commands are case sensitive.
 
 ### PING
 Pings the Arduino (used for testing connection). Responds with "PONG" if the Arduino sucessfully receives the command and if Unity is set up to read serial output from the Arduino (currently not the case because of lag issues and because the experiment isn't currently set up to require information from the Arduino).

@@ -7,7 +7,7 @@ permalink: /pages/OtherFolders/ProjectSettings
 
 # ProjectSettings
 
-Unity project-level settings.
+Unity settings specific to this project.
 {: .fs-6 .fw-300 }
 
 ---

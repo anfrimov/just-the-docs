@@ -2,7 +2,7 @@
 layout: default
 title: Library
 parent: OtherFolders
-permalink: /pages/Library
+permalink: /pages/OtherFolders/Library
 ---
 
 # Library

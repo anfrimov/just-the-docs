@@ -1,6 +1,7 @@
 ---
 layout: default
 title: OtherFolders
+nav_order: 4
 has_children: true
 permalink: /pages/OtherFolders
 ---

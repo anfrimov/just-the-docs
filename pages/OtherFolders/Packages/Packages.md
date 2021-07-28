@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Packages
-nav_order: 6
-permalink: /pages/Packages
+parent: OtherFolders
+permalink: /pages/OtherFolders/Packages
 ---
 
 # Packages

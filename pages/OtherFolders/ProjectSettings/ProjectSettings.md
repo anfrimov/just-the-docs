@@ -1,13 +1,13 @@
 ---
 layout: default
 title: ProjectSettings
-nav_order: 7
-permalink: /pages/ProjectSettings
+parent: OtherFolders
+permalink: /pages/OtherFolders/ProjectSettings
 ---
 
 # ProjectSettings
 
-This Unity project's settings.
+Unity project-level settings.
 {: .fs-6 .fw-300 }
 
 ---

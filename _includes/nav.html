@@ -96,14 +96,4 @@
       {%- endunless -%}
     {%- endif -%}
   {%- endfor -%}
-  
-  {%- comment -%}
-  {%- for page in site.pages -%}
-    <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-  
-    {% if page.subnav %}
-      {% include nav.html nav=page.subnav %}
-    {% endif %}
-  {%- endfor -%}
-  {%- endcomment -%}
 </ul>

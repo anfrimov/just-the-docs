@@ -57,7 +57,6 @@
 
   {%- assign pages_list = sorted_number_ordered_pages | concat: sorted_string_ordered_pages -%}
   
-  {%- comment -%}
   {%- for node in pages_list -%}
     {%- if node.parent == nil -%}
       {%- unless node.nav_exclude -%}
@@ -97,8 +96,8 @@
       {%- endunless -%}
     {%- endif -%}
   {%- endfor -%}
-  {%- endcomment -%}
   
+  {%- comment -%}
   {%- for page in site.pages -%}
     <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
   
@@ -106,4 +105,5 @@
       {% include nav.html nav=page.subnav %}
     {% endif %}
   {%- endfor -%}
+  {%- endcomment -%}
 </ul>

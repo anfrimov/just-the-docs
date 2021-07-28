@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Packages
+nav_order: 3
 parent: OtherFolders
 permalink: /pages/OtherFolders/Packages
 ---

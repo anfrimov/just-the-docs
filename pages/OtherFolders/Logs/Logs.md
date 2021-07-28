@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Logs
+nav_order: 2
 parent: OtherFolders
 permalink: /pages/OtherFolders/Logs
 ---

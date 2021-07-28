@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Library
+nav_order: 1
 parent: OtherFolders
 permalink: /pages/OtherFolders/Library
 ---

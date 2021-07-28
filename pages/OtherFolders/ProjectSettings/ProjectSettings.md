@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ProjectSettings
+nav_order: 4
 parent: OtherFolders
 permalink: /pages/OtherFolders/ProjectSettings
 ---

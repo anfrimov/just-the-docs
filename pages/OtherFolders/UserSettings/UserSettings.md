@@ -1,6 +1,7 @@
 ---
 layout: default
 title: UserSettings
+nav_order: 5
 parent: OtherFolders
 permalink: /pages/OtherFolders/UserSettings
 ---
